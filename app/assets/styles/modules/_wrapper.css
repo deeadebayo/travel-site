@@ -35,9 +35,9 @@
 
     &--b-margin {
         margin-bottom: 1em;
-    }
 
     @mixin atSmall {
         margin-bottom: 3.875em;
+    }
     }
 }
